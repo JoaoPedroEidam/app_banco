@@ -9,6 +9,5 @@ class User {
   const User(
       {@required this.nome,
       // ignore: non_constant_identifier_names
-      @required this.RA,
-      @required this.nota});
+      @required this.RA});
 }
